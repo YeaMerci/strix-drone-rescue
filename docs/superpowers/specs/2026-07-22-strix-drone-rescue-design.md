@@ -3,7 +3,7 @@
 **Date:** 2026-07-22
 **Status:** Approved (design), pending spec review
 **Owner:** entertomerci@gmail.com
-**Repository:** `strix-sar/` (new git repo created inside the source folder)
+**Repository:** `strix-drone-rescue/` (new git repo created inside the source folder)
 
 ## 0. Naming
 
@@ -12,7 +12,8 @@
 - **Full title (README H1):** **Strix — Drone Search & Rescue**.
 - **Subtitle used throughout:** *Finding missing people from the air with on-board
   neural detection.*
-- **Repo/dir slug:** `strix-sar` (SAR = Search And Rescue, the standard domain acronym).
+- **Repo/dir slug:** `strix-drone-rescue` (purpose made fully explicit; the project is
+  specifically search-and-rescue for missing people, not general emergency response).
 - Legacy internal name "Polar Owl" survives only inside notebook run names
   (`project="Polar-Owl"`); executable code is not rewritten, so it stays there.
   New documentation uses Strix throughout; the codename evolution may be noted once
@@ -98,7 +99,7 @@ segmentation Image|GT|Predict triptych, EDA image/mask overlays.
 ## 4. Target structure
 
 ```
-strix-sar/
+strix-drone-rescue/
 ├── README.md                       # hero: problem, approach, headline results, repo map, TIBO 2023
 ├── docs/
 │   ├── 00-motivation-and-context.md
@@ -154,7 +155,7 @@ strix-sar/
 4. Figures relocated + renamed into `docs/figures/`.
 5. `data/README.md`, `.gitignore`.
 6. A Deep Research prompt for the hardware chapter.
-7. `strix-sar/` is already a git repo (`git init` done); commits happen as work lands.
+7. `strix-drone-rescue/` is already a git repo (`git init` done); commits happen as work lands.
 
 ## 8. Open items for owner
 
