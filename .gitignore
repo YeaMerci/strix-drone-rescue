@@ -1,0 +1,25 @@
+# Datasets (large, versioned externally)
+*.zip
+datasets/
+data/*.zip
+data/LADD/
+data/dataset/
+
+# Python
+__pycache__/
+*.pyc
+env/
+.venv/
+venv/
+
+# ML artifacts
+runs/
+Polar-Owl/
+*.pt
+*.ckpt
+logs/
+wandb/
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
