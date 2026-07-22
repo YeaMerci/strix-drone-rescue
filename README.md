@@ -17,6 +17,9 @@
 <img alt="Ultralytics" src="https://img.shields.io/badge/Ultralytics-YOLOv8-0b7285">
 <img alt="Presented" src="https://img.shields.io/badge/presented-TIBO%202023-b5179e">
 </p>
+<p>
+<a href="https://yeamerci.github.io/strix-drone-rescue/"><img alt="Live site" src="https://img.shields.io/badge/%F0%9F%8C%90%20live%20site-yeamerci.github.io%2Fstrix--drone--rescue-ff6a3d?style=for-the-badge"></a>
+</p>
 
 <em>An applied computer-vision research project toward an autonomous drone that detects<br>
 missing people in hard-to-reach terrain — in real time, on the aircraft itself.</em>
@@ -26,6 +29,12 @@ missing people in hard-to-reach terrain — in real time, on the aircraft itself
 <img src="docs/figures/detection-sample-winter-3people.png" width="70%" alt="YOLOv8-nano detecting three people from drone altitude over a snow field">
 
 <sub><b>YOLOv8-nano finding three people from 40–50 m altitude over a low-contrast snow field</b> — confidences 0.78 / 0.55 / 0.66.</sub>
+
+<br><br>
+
+### 🌐 [Explore the interactive project site →](https://yeamerci.github.io/strix-drone-rescue/)
+
+<sub>Animated metrics, the full research story, and an interactive hardware bay where you fly each edge board.</sub>
 
 </div>
 
