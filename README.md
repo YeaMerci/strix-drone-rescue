@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦉 Strix — Drone Search &amp; Rescue
+# 🦉 Strix: Drone Search &amp; Rescue
 
 ### Finding missing people from the air with on-board neural detection
 
